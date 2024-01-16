@@ -16,9 +16,9 @@ Depois, execute **npm install** no diretório do projeto e utilize o comando **n
 
 **Axios:** Cliente HTTP para facilitar requisições à API.
 
-**Toastify:** Biblioteca para notificações visuais.
+**Toastify:** Biblioteca que permite a criação de notificações.
 
-**Lucide Icons:** Conjunto de ícones para personalização de interfaces gráficas.
+**Lucide Icons:** Biblioteca de ícones svg componentizados.
 
 ## 📷 Demonstração Visual: 
 
