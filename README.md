@@ -20,3 +20,10 @@ Depois, execute **npm install** no diretório do projeto e utilize o comando **n
 
 **Lucide Icons:** Conjunto de ícones modernos e personalizáveis.
 
+## 📷 Demonstração Visual: 
+
+![pesquisa-satisfacao-natashalimeres vercel app_ (1)](https://github.com/natashalimeres/pesquisa-satisfacao/assets/100318170/48176c34-1a09-488f-9040-95e762624323)
+
+
+
+
